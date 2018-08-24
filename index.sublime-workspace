@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"content",
+				"align-content\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"BACO",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"mo",
+				"moat-lagoon"
+			],
+			[
+				"hun",
+				"hunt-lagoon"
+			],
+			[
+				"s",
+				"selange"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"paddig",
+				"padding-left\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"sty",
+				"font-style\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 508.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/qbxnet/git_practice/excursion/index.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/Email html 1/index-tables-inline.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/index-inline-style copy.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/Email html 1/style.css",
+		"/Volumes/GoogleDrive/My Drive/Email html/Email html 1/index-tables.html",
+		"/Users/qbxnet/Desktop/Email html 1/index.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/style.css",
+		"/Volumes/GoogleDrive/My Drive/Email html/index.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/index-inline-style.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/index-inline-styles.html",
+		"/Volumes/GoogleDrive/My Drive/Email html/index with style.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/email html/style.css",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/email html/index.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/art store/index.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/art store/style.css",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/hello_html/index.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/hello_html/Resources/css/index.css",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/Paris/index.css",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/Paris/index.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/Paris/table text.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/codecademy projects/Restaurant menu/index.html",
+		"/Users/qbxnet/Desktop/measure/index.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/Lesson 4.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/nav bar.html",
+		"/Users/qbxnet/Desktop/nd2c logo.svg",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/stylesheet.css",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/slack card.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/slack card",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/Lesson 3.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/Lesson 2.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/lesson 1.html",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/lesson 1",
+		"/Users/qbxnet/Desktop/lesson 1",
+		"/Users/qbxnet/Desktop/Connectavo/Basic html and css/<h2> My second code! <:h2>"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
